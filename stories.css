@@ -1,0 +1,36 @@
+body{
+    background:rgb(21, 32, 43);
+    text-align: center;
+    margin: 30px;
+}
+mark{
+    font-size: 50px;
+    color: crimson;
+    border: 2px solid cadetblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 40px cadetblue;
+ }
+h1{
+    margin-bottom: 30px;
+    padding: 20px;
+    height: 20px;
+}
+p{
+    color: white;
+    font-weight: bold
+}
+.myclass{
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+    border: 2px outset darkblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px darkblue;
+    border-width: 20px;
+}
+#aa{
+    font-weight: bold;
+    font-size: 20pt;
+}
